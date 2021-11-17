@@ -1,0 +1,23 @@
+Photos:
+
+CPU (AMD): https://www.amd.com/en/campaigns/why-amd
+
+CPU (INTEL): https://www.howtogeek.com/738818/what-is-a-cpu-socket-type-cpu-socket-types-explained/
+
+CPU FAN: https://www.newegg.com/insider/how-to-choose-the-right-cpu-cooler-pc-radiator-for-you/
+
+AIO: https://www.teckknow.com/nzxt-expands-its-kraken-x-3-rgb-series-aio-liquid-cpu-cooler-line/
+
+MOBO: https://www.wepc.com/how-to/check-what-motherboard-you-have/
+
+RAM: https://www.coolblue.be/en/advice/what-is-ram.html
+
+CASE: https://dotesports.com/hardware/news/best-tempered-glass-pc-cases
+
+HDD: https://www.deskdecode.com/how-to-buy-a-good-new-hard-disk-drive/
+
+SSD: https://basic-tutorials.com/tutorials/hardware-tutorials/the-different-types-of-ssds/
+
+PSU: https://www.tomshardware.com/reviews/best-psus,4229.html
+
+GPU: https://www.pcworld.com/article/416006/the-best-graphics-cards-for-pc-gaming.html

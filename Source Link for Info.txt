@@ -1,0 +1,69 @@
+- Central Processing Unit (also known as CPU, or just processor) is responsible for the processes intructions, runs the operating system and applications. It is basically the brain of the computer. The processor is created with one or more chips, that contains basic arithmetic, logic, and control elements of the computer.
+
+- Graphics Processing Unit (also known as GPU, or graphics card) is a programmable processor made for rendering all the images and graphics displayed on the computer's screen. The GPU can also be part of the motherboard chipset, CPU chipset, or as an expansion card that generates images and graphics. It also helps reduce the workload of the main processor (CPU) as it handles high-resolution graphics processing tasks and consists of multiples cores with small instruction sets.
+
+- Power Supply Unit (also known as PSU) converts alternating high voltage current (AC) to direct current (DC). It regulates the DC output voltage to the required power needed for the computer and its components.
+
+Different Sizes of Power Supply:
++ PS/2
++ ATX
++ mATX
++ FlexATX
++ LFX
++ CFX
++ EPS
++ SFX
++ TFX
++ WTX
+
+
+- Storage (Long-Term): There are two types of storage: long-term and short-term. The photos above show long-term storage. It is a process in which digital data is saved within a storage device. Media storage is the place where things go when the microprocessor isn't working on them and can be retrieved later.
+
+It can also be internal (inside the computer hardware) or external (installed outside, without opening the computer)
+
+Different Types of Long-Term Storage Drives:
+- Hard Disk Drive (HDD) - (examples: 2.5-inch drive and 3.5-inch drive)
+- Solid State Drive (SSD) - (examples: SATA, PCIe, M.2, etc.)
+- Flash Memory Drives - (examples: USB flash drive, SD cards, etc)
+- Virtual Drive
+- Cloud Storage - (Dropbox, iCloud, Google Drive, etc.)
+
+- Computer Cases (also known as Computer Chassis) serves as a way to physically mount and hold all the components inside the computer, including the motherboard, hard drive, etc. It also protects the components from dust, liquid, etc. which can damage the internal parts of a computer. A case with good airflow can help cool of the hardware components which helps prevent overheat and malfunction.
+
+Different Sizes of Cases
++ EATX (Full Tower
++ ATX (Mid Tower)
++ MicroATX (Mini Tower)
++ Mini-ITX (Small Form Factor)
+
+- Motherboard (also known as Mainboard, or Mobo) is the main circuit board inside the computer that connects the different components together and allows communication between the hardware. It has sockets for the CPU, Ram, expansion cards, and also connects the drives, cables and wires.
+
+Ram (Random Access Memory) is the computer's short-term memory. It is used to handle all active tasks and applications.
+
+CPU Cooling is used to cool the CPU to obtain maximum performance. It absorbs the heat generated from the CPU and redistributes it away from the hardware.
+
+SOURCES:
+CPU: https://www.sciencedirect.com/topics/engineering/central-processing-unit
+https://techterms.com/definition/cpu
+
+GPU:https://www.pcmag.com/encyclopedia/term/gpu
+https://pediaa.com/what-is-difference-between-gpu-and-graphic-card/
+
+RAM:https://www.avast.com/c-what-is-ram-memory
+
+PSU: https://www.techbuyer.com/uk/blog/What-is-a-Power-Supply-Unit-PSU
+https://www.pearsonitcertification.com/articles/article.aspx?p=2024310&seqNum=16
+https://www.tomshardware.com/features/pc-form-factor-basics
+https://voltcave.com/modular-power-supply/
+
+Storage:https://www.dummies.com/computers/computer-networking/networking-components/computer-storage/
+https://www.techopedia.com/definition/1115/storage
+https://blogs.umass.edu/Techbytes/2018/02/23/types-of-ssds-and-which-ones-to-buy/
+https://experience.dropbox.com/get-organized/storage-devices
+
+Case: https://www.lifewire.com/what-is-a-computer-case-2618149
+https://www.buildcomputers.net/computer-case-sizes.html
+
+Mobo:https://www.lanner-america.com/blog/types-motherboard-form-factors/
+
+Cooling: https://www.intel.com/content/www/us/en/gaming/resources/cpu-cooler-liquid-cooling-vs-air-cooling.html
